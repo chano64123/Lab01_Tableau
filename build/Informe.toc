@@ -1,0 +1,28 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}OBJETIVOS}{2}{section.1}%
+\contentsline {section}{\numberline {2}REQUERIMIENTOS}{2}{section.2}%
+\contentsline {section}{\numberline {3}CONSIDERACIONES INICIALES}{2}{section.3}%
+\contentsline {section}{\numberline {4}DESARROLLO}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Introducción a Tableau}{3}{subsection.4.1}%
+\contentsline {paragraph}{\Large Instalación\\ \\}{3}{section*.2}%
+\contentsline {subsection}{\numberline {4.2}Comenzar}{3}{subsection.4.2}%
+\contentsline {paragraph}{\Large Espacio de trabajo de Tableau \\ \\}{3}{section*.3}%
+\contentsline {paragraph}{\Large Conexión a una fuente de datos\\ \\}{4}{section*.4}%
+\contentsline {paragraph}{\Large Crear una vista\\ \\}{7}{section*.5}%
+\contentsline {paragraph}{\Large Refinando la vista\\ \\}{10}{section*.6}%
+\contentsline {subsection}{\numberline {4.3}Enfatizando los resultados}{14}{subsection.4.3}%
+\contentsline {paragraph}{\Large Agregar filtros a la vista\\ \\}{15}{section*.7}%
+\contentsline {paragraph}{\Large Agregar colores a la vista\\ \\}{15}{section*.8}%
+\contentsline {paragraph}{\Large Resultados clave\\ \\}{16}{section*.9}%
+\contentsline {subsection}{\numberline {4.4}Vista de mapa}{21}{subsection.4.4}%
+\contentsline {paragraph}{\Large Crear una vista de mapa\\ \\}{21}{section*.10}%
+\contentsline {paragraph}{\Large Entrar en los detalles\\ \\}{26}{section*.11}%
+\contentsline {paragraph}{\Large Resultados clave\\ \\}{34}{section*.12}%
+\contentsline {subsection}{\numberline {4.5}Tablero}{39}{subsection.4.5}%
+\contentsline {paragraph}{\Large Crear un tablero}{39}{section*.13}%
+\contentsline {paragraph}{\Large Añadiendo interactividad\\ \\}{46}{section*.14}%
+\contentsline {subsection}{\numberline {4.6}Historia}{49}{subsection.4.6}%
+\contentsline {paragraph}{\Large Construyendo una historia\\ \\}{49}{section*.15}%
+\contentsline {paragraph}{\Large Hacer una conclusión\\ \\}{52}{section*.16}%
+\contentsline {section}{\numberline {5}CONCLUSIONES}{58}{section.5}%
+\contentsline {section}{\numberline {6}WEBGRAFIA}{59}{section.6}%
